@@ -6,6 +6,7 @@
    left: 25%;
    top: 15%;
    border: 4px solid black;
+   color: rgb(255, 0, 191);
    
 }
 
@@ -28,14 +29,14 @@
     margin-left: 3.6px;
     font-size: 4rem;
     margin-bottom: 2px;
-    border: 4px solid black;
+    border: 4px solid rebeccapurple;
     transition: 500ms;
 }
 
 .displayField{
     height: 20%;
     border: 4px solid black;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     font-size: 6rem;
     text-align: end;
     
